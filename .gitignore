@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Model files (optional)
+*.pkl
+anaconda_projects/
